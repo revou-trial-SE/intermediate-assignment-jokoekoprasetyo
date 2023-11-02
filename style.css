@@ -1,0 +1,112 @@
+/* banner start*/
+.banner {
+  background: url(https://images.unsplash.com/photo-1600861194909-b71e5280c15f?auto=format&fit=crop&q=80&w=1632&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 13.9%;
+  padding-bottom: 13.9%;
+  color: #fff;
+}
+
+.banner h1 {
+  color: #9700ee;
+}
+
+.banner .social ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.banner .social ul li a {
+  text-decoration: none;
+}
+/* banner end */
+
+/* container start*/
+.circle {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.circle i {
+  position: relative;
+  top: 30px;
+}
+
+.fb {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.fb i {
+  position: relative;
+  top: 30px;
+}
+
+.circle-2 {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #0d6efd;
+}
+
+.circle-2 i {
+  position: relative;
+  top: 30px;
+}
+
+.fe {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #ffc107;
+}
+
+.fe i {
+  position: relative;
+  top: 30px;
+}
+
+.team-lead img {
+  width: 250px;
+  height: 250px;
+  border: 10px solid #cccc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #010101;
+  line-height: 40px;
+}
+
+.contact {
+  background: url(https://img.freepik.com/premium-photo/world-map-hd-wallpaper-photographic-image_993236-1524.jpg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
